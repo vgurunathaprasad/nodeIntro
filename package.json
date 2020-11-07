@@ -1,0 +1,13 @@
+{
+  "name": "napp",
+  "version": "1.0.0",
+  "description": "a new node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "read" : "node readFile.js",
+    "write": "node writeFile.js"
+  },
+  "author": "gurunatha prasad",
+  "license": "ISC"
+}
